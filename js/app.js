@@ -1,2 +1,2 @@
-document.getElementById('addText').innerHTML="Hello word";
-console.log('Hello word');  
+$ ('#addText').text('hello word');
+$('#remove').remove();
